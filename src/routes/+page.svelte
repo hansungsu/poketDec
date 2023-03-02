@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		성수의 홈페이지에 들어오신걸 환영합니다.
 	</h1>
 
 	<h2>
